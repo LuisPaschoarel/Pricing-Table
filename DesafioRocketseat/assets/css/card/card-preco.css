@@ -1,0 +1,20 @@
+.card__preco strong {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+
+    color: #1E2338;
+}
+
+.card__preco {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 1rem 1.5rem;
+
+    color: var(--gray);
+}

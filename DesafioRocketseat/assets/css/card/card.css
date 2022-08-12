@@ -1,0 +1,12 @@
+.card {
+    background: #FFFFFF;
+    height: 470px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 1rem;
+}
+
+.card-divisao {
+    border-bottom: 1px solid #eeeeee;
+    padding-bottom: 1rem;
+}

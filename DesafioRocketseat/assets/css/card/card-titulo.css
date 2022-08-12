@@ -1,0 +1,10 @@
+.card__titulo {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    padding: 1.5rem;
+
+    color: var(--gray);
+}

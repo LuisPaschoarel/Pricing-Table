@@ -1,0 +1,23 @@
+.card__botao {
+    box-sizing: border-box;
+    background: #FFFFFF;
+
+    padding: 12px 24px;
+    gap: 10px;
+
+    border: 1px solid #1D539E;
+    border-radius: 10px;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: var(--blue);
+    text-align: center;
+    text-transform: uppercase;
+    
+
+    margin: auto 1.5rem 1.5rem;
+}

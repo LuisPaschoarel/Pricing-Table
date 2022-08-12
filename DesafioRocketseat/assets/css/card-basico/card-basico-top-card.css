@@ -1,0 +1,22 @@
+.card-basico--topo-card {
+    display: flex;
+    justify-content: space-between;
+    background: var(--yellow);
+    padding: 1.5rem;
+    border-radius: 1rem 1rem 0 0  ;
+}
+
+.card-basico__popular {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    background: var(--blue);
+    border-radius: 40px;
+    padding: .5rem 1.5rem;
+}

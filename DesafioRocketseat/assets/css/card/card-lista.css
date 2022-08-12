@@ -1,0 +1,15 @@
+.card__lista  {
+
+    padding-top: 1rem;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 19px;
+
+    color: var(--gray);
+
+    padding: 1rem  1.5rem;
+    
+}
